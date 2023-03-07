@@ -6,7 +6,7 @@
           <!-- <p class="text-current">Comprehehnsive</p> -->
           <p class="text-army font-bold text-3xl text-center">Comprehensive</p>
           <p class="text-current text-sm">Paddy Cover Vehicle Insurance.</p>
-          <router-link to="/signup" class="py-2 px-10 rounded border border-solid border-army text-army hover:bg-army hover:text-white">
+          <router-link to="/login" class="py-2 px-10 rounded border border-solid border-army text-army hover:bg-army hover:text-white">
             <div class="flex items-center gap-4">
               <p class="text-sm font-semibold">Get Started</p>
               <svg class="arrow1" width="6" height="11" viewBox="0 0 6 11" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -61,7 +61,7 @@
           <!-- <p class="text-current">Third Party</p> -->
           <p class="text-fuschia font-bold text-3xl text-center">Third Party</p>
           <p class="text-current text-sm">Paddy Cover Vehicle Insurance.</p>
-          <router-link to="/signup" class="py-2 px-10 rounded border border-solid border-fuschia text-fuschia hover:bg-fuschia hover:text-white">
+          <router-link to="/login" class="py-2 px-10 rounded border border-solid border-fuschia text-fuschia hover:bg-fuschia hover:text-white">
             <div class="flex items-center gap-4">
               <p class="text-sm font-semibold">Get Started</p>
               <svg class="arrow1" width="6" height="11" viewBox="0 0 6 11" fill="none" xmlns="http://www.w3.org/2000/svg">

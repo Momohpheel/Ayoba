@@ -58,7 +58,7 @@ const routes = [
               {
                 path: '/app/dashboard/buyhealth/1',
                 name: 'BuyHealth1',
-                component: () => import('../views/Health/FormStep1.vue')
+                component: () => import('../views/Health/FormStep2.vue')
               },
               {
                 path: '/app/dashboard/buyhealth/choose',

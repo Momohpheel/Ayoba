@@ -11,7 +11,7 @@
           </div>
         </div>
         <div class="w-full lg:ml-40 mt-12 lg:mt-0 lg:w-full">
-          <h1 class="text-dark text-2xl font-semibold lg:text-center">It's time to Get you Covered,🚀</h1>
+          <!-- <h1 class="text-dark text-2xl font-semibold lg:text-center">It's time to Get you Covered,🚀</h1> -->
           <p class="mt-2 text-charcoal lg:text-center">Create your account in two simple steps. It will only take a minute.</p>
           <Step1 v-if="!shownext" v-on:setUser="setUser" v-bind:user="user" /> 
           <Step2 v-else v-on:hideNext="shownext = false"  v-on:updateUser="updateUser"/>

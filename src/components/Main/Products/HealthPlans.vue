@@ -16,7 +16,7 @@
           <p class="text-current">Paddy Basic Individual</p>
           <p class="text-army font-bold text-3xl text-center">₦1,500 Monthly</p>
           <p class="text-current text-sm">Paddy Cover Health Insurance.</p>
-          <router-link to="/signup" class="py-2 px-10 rounded border border-solid border-army text-army hover:bg-army hover:text-white">
+          <router-link to="/login" class="py-2 px-10 rounded border border-solid border-army text-army hover:bg-army hover:text-white">
             <div class="flex items-center gap-4">
               <p class="text-sm font-semibold">Get Started</p>
               <svg class="arrow1" width="6" height="11" viewBox="0 0 6 11" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -118,7 +118,7 @@
           <p class="text-current">Paddy Max Individual</p>
           <p class="text-navy font-bold text-3xl text-center">₦2,500 Monthly</p>
           <p class="text-current text-sm">Paddy Cover Health Insurance.</p>
-          <router-link to="/signup" class="py-2 px-10 rounded border border-solid border-navy text-navy hover:bg-navy hover:text-white">
+          <router-link to="/login" class="py-2 px-10 rounded border border-solid border-navy text-navy hover:bg-navy hover:text-white">
             <div class="flex items-center gap-4">
               <p class="text-sm font-semibold">Get Started</p>
               <svg class="arrow1" width="6" height="11" viewBox="0 0 6 11" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -176,7 +176,7 @@
             <p class="text-current">Paddy Basic Family</p>
             <p class="text-army font-bold text-3xl text-center">₦12,333 Monthly</p>
             <p class="text-current text-sm">Paddy Cover Health Insurance.</p>
-            <router-link to="/signup" class="py-2 px-10 rounded border border-solid border-army text-army hover:bg-army hover:text-white">
+            <router-link to="/login" class="py-2 px-10 rounded border border-solid border-army text-army hover:bg-army hover:text-white">
               <div class="flex items-center gap-4">
                 <p class="text-sm font-semibold">Get Started</p>
                 <svg class="arrow1" width="6" height="11" viewBox="0 0 6 11" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -231,7 +231,7 @@
             <p class="text-current">Paddy Mid Family</p>
             <p class="text-fuschia font-bold text-3xl text-center">₦15,750 Monthly</p>
             <p class="text-current text-sm">Paddy Cover Health Insurance.</p>
-            <router-link to="/signup" class="py-2 px-10 rounded border border-solid border-fuschia text-fuschia hover:bg-fuschia hover:text-white">
+            <router-link to="/login" class="py-2 px-10 rounded border border-solid border-fuschia text-fuschia hover:bg-fuschia hover:text-white">
               <div class="flex items-center gap-4">
                 <p class="text-sm font-semibold">Get Started</p>
                 <svg class="arrow1" width="6" height="11" viewBox="0 0 6 11" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -286,7 +286,7 @@
             <p class="text-current">Paddy Max Family</p>
             <p class="text-navy font-bold text-3xl text-center">₦20,601 Monthly</p>
             <p class="text-current text-sm">Paddy Cover Health Insurance.</p>
-            <router-link to="/signup" class="py-2 px-10 rounded border border-solid border-navy text-navy hover:bg-navy hover:text-white">
+            <router-link to="/login" class="py-2 px-10 rounded border border-solid border-navy text-navy hover:bg-navy hover:text-white">
               <div class="flex items-center gap-4">
                 <p class="text-sm font-semibold">Get Started</p>
                 <svg class="arrow1" width="6" height="11" viewBox="0 0 6 11" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -341,7 +341,7 @@
             <p class="text-current">Paddy SuperMax Family</p>
             <p class="text-navy font-bold text-3xl text-center">₦56,276 Monthly</p>
             <p class="text-current text-sm">Paddy Cover Health Insurance.</p>
-            <router-link to="/signup" class="py-2 px-10 rounded border border-solid border-navy text-navy hover:bg-navy hover:text-white">
+            <router-link to="/login" class="py-2 px-10 rounded border border-solid border-navy text-navy hover:bg-navy hover:text-white">
               <div class="flex items-center gap-4">
                 <p class="text-sm font-semibold">Get Started</p>
                 <svg class="arrow1" width="6" height="11" viewBox="0 0 6 11" fill="none" xmlns="http://www.w3.org/2000/svg">

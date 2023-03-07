@@ -5,14 +5,14 @@
         <font-awesome-icon icon="times-circle" class="text-green-600 " />
       </router-link>
       <div class="lg:flex items-center">
-        <img src="@/assets/images/menu/Image 9.png" alt="" class="inline img" style="">
+        <!-- <img src="@/assets/images/menu/Image 9.png" alt="" class="inline img" style=""> -->
         <p class="text-lg font-bold inline ml-4 lg:hidden">Health Insurance</p>
         <div class="ml-3 w-full lg:flex justify-between items-center">
           <p class="text-lg font-bold lg:w-1/5 hidden lg:block">Health Insurance</p>
           <div class=" lg:w-3/4">
             <hr class="mt-2">
-            <hr class="mt-2">
-            <hr class="mt-2 border-green-500 bg-green-500 border-2">
+            <!-- <hr class="mt-2">
+            <hr class="mt-2 border-green-500 bg-green-500 border-2"> -->
           </div>
         </div>
       </div>
