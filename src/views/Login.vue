@@ -11,7 +11,7 @@
           </div>
         </div>
         <form @submit.prevent="validateForm" class="w-full lg:ml-40 mt-12 lg:mt-0">
-          <h1 class="text-dark text-2xl font-semibold lg:text-center">Welcome back to PaddyCover, 👏🏽</h1>
+          <!-- <h1 class="text-dark text-2xl font-semibold lg:text-center">Welcome back to PaddyCover, 👏🏽</h1> -->
           <p class="mt-2 text-charcoal lg:text-center">Log in to your dashboard to continue</p>
           <div class="mt-4 lg:mt-6">
             <label class="text-army font-semibold">Email Address</label>
