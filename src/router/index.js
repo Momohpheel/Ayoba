@@ -130,7 +130,7 @@ const routes = [
               {
                 path: '/app/dashboard/buyvehicle/1',
                 name: 'BuyVehicle1',
-                component: () => import('../views/Vehicle/FormStep1.vue')
+                component: () => import('../views/Vehicle/ChoosePlan.vue')
               },
               {
                 path: '/app/dashboard/buyvehicle/choose',

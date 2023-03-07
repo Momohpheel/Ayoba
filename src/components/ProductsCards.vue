@@ -14,7 +14,7 @@
               </router-link>
           </li>
           <li class="flex-shrink-0 min-w-[200px] max-w-[25%]">
-            <router-link to="/products/vehicle" class="block w-full p-4 bg-violet rounded-lg">
+            <router-link to="/app/dashboard/buyvehicle/1" class="block w-full p-4 bg-violet rounded-lg">
                   <p class="text-white text-sm">Vehicle & Motorcycle Insurance</p>
                   <div class="flex justify-end mt-6">
                      

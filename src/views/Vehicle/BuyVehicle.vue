@@ -5,13 +5,13 @@
         <font-awesome-icon icon="times-circle" class="text-green-600 " />
       </router-link>
       <div class="flex items-center">
-        <img src="@/assets/images/menu/Group 65.png" alt="" class="img">
+        <!-- <img src="@/assets/images/menu/Group 65.png" alt="" class="img"> -->
         <div class="ml-3 w-full lg:flex justify-between items-center">
           <p class="text-lg font-bold lg:w-1/5">Vehicle Insurance</p>
           <div class=" lg:w-3/4">
-            <hr class="mt-2">
-            <hr class="mt-2">
-            <hr class="mt-2 border-green-500 bg-green-500 border-2">
+             <hr class="mt-2">
+           <!-- <hr class="mt-2">
+            <hr class="mt-2 border-green-500 bg-green-500 border-2"> -->
           </div>
         </div>
       </div>
