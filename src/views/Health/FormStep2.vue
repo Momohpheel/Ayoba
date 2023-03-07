@@ -109,7 +109,7 @@ export default {
     ...mapState({
        dependants: state => state.dependants,
        underwriterId: state => state.underwriter_id,
-       beneficiaryType: state => state.health.beneficiaryType
+      
     })
   },
   watch:{
@@ -134,14 +134,10 @@ export default {
     },
     validate(){
       this.$store.commit('setHealthPlan', this.healthPlan)
-      if(this.beneficiaryType === 'single'){
+      
         this.$router.push('/app/dashboard/buyhealth/3')
         return
-      }else if(this.beneficiaryType === 'multiple'){
-        this.$router.push('/app/dashboard/buyhealth/multiple/upload')
-        return
-      }
-      this.$router.push('/app/dashboard/buyhealth/1')
+      
     },
     addListeners(index, plan){
       let plans = document.getElementsByClassName('plan')
