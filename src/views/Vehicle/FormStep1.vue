@@ -95,7 +95,7 @@ export default {
     validate(){
       if(this.user.length > 0){
         // this.$store.commit('startLoading')
-        this.$store.commit('setBeneficiary', this.user[0])
+        this.$store.commit('setBeneficiary', this.self)
         this.$store.commit('setBeneficiaryCount', 'single')
         this.$router.push('/app/dashboard/buyvehicle/choose')
       }else{

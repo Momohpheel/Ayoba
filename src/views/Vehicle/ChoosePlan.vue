@@ -32,6 +32,7 @@ export default {
   computed:{
     ...mapState({
       underwriters: state => state.underwriters,
+      self: state => state.user
     })
   },
   watch:{
@@ -54,7 +55,8 @@ export default {
     }
   },
   mounted(){
-    
+    this.$store.commit('setBeneficiary', this.self)
+    this.$store.commit('setBeneficiaryCount', 'single')
   },
   created(){
     if(this.underwriters.length == 0){

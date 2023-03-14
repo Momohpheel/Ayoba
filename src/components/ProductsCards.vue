@@ -41,7 +41,7 @@
           </li>
           <li class="min-w-[200px] max-w-[15%]">
             <div class="flex">
-            <router-link to="/products/homecontent" class="w-full block p-4 mx-1 bg-army rounded-lg">
+            <router-link to="/app/dashboard/buyhome" class="w-full block p-4 mx-1 bg-army rounded-lg">
                   <p class="text-white text-sm">Home Content Insurance</p>
                   <div class="flex justify-end mt-6">
                       
