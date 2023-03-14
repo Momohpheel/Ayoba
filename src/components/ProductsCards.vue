@@ -7,7 +7,7 @@
          
           <li class="flex-shrink-0 min-w-[200px] max-w-[25%]">
             <div class="flex">
-            <router-link to="/app/dashboard/buyhealth/1" class="block w-full p-4 mx-3 bg-fuschia rounded-lg">
+            <router-link to="/app/dashboard/buyhealth/1" class="block w-full p-4 mx-1 bg-fuschia rounded-lg">
                   <p class="text-white text-sm">Health & Accident Insurance</p>
                   <div class="flex justify-end mt-6">
                      
@@ -24,7 +24,7 @@
           </li>
           <li class="flex-shrink-0 min-w-[200px] max-w-[25%]">
             <div class="flex">
-            <router-link to="/app/dashboard/buyvehicle/1" class="block w-full p-4 mx-3 bg-violet rounded-lg">
+            <router-link to="/app/dashboard/buyvehicle/1" class="block w-full p-4 mx-1 bg-violet rounded-lg">
                   <p class="text-white text-sm">Vehicle & Motorcycle Insurance</p>
                   <div class="flex justify-end mt-6">
                      
@@ -41,7 +41,7 @@
           </li>
           <li class="min-w-[200px] max-w-[15%]">
             <div class="flex">
-            <router-link to="/products/homecontent" class="w-full block p-4 mx-3 bg-army rounded-lg">
+            <router-link to="/products/homecontent" class="w-full block p-4 mx-1 bg-army rounded-lg">
                   <p class="text-white text-sm">Home Content Insurance</p>
                   <div class="flex justify-end mt-6">
                       
@@ -59,7 +59,7 @@
           </li>
           <li class="flex-shrink-0 min-w-[200px] max-w-[25%]">
             <div class="flex">
-            <div class="w-full p-4 mx-3 bg-navy rounded-lg">
+            <div class="w-full p-4 mx-1 bg-navy rounded-lg">
                   <p class="text-white text-sm">Gadgets & POS Insurance</p>
                   <div class="flex justify-end mt-6">
                       
@@ -77,7 +77,7 @@
           <li class="flex-shrink-0 min-w-[200px] max-w-[25%]">
 
             <div class="flex">
-            <div class="w-full p-4 mx-3 bg-yellow-400 rounded-lg">
+            <div class="w-full p-4 mx-1 bg-yellow-400 rounded-lg">
                   <p class="text-white text-sm">Travel & Travel Insurance</p>
                   <div class="flex justify-end mt-8">
                       <!-- <button>
