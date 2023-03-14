@@ -32,6 +32,7 @@ export default {
   computed:{
     ...mapState({
       underwriters: state => state.underwriters,
+      self: state => state.user
     })
   },
   watch:{
@@ -57,6 +58,9 @@ export default {
         if(this.underwriters.length == 0){
             this.getUnderwriters()
         }
+
+        this.$store.commit('setBeneficiary', this.self)
+        this.$store.commit('setBeneficiaryType', 'single')
     }
 }
 </script>
