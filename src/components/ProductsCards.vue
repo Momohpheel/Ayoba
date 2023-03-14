@@ -31,7 +31,7 @@
                   </div>
               </router-link>
 
-              <router-link to="/app/dashboard/buyvehicle/managevehicle" class="block w-full p-4 bg-violet rounded-lg">
+              <router-link to="/app/dashboard/managevehicle" class="block w-full p-4 bg-violet rounded-lg">
                   <p class="text-white text-sm">Manage Your Vehicle & Motorcycle Insurance</p>
                   <div class="flex justify-end mt-6">
                      
@@ -48,7 +48,7 @@
                   </div>
               </router-link>
 
-              <router-link to="/products/managehome" class="w-full block p-4 bg-army rounded-lg">
+              <router-link to="/app/dashboard/managehome" class="w-full block p-4 bg-army rounded-lg">
                   <p class="text-white text-sm">Manage Your Home Content Insurance</p>
                   <div class="flex justify-end mt-6">
                       
