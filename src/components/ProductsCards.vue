@@ -181,6 +181,7 @@
               <p>Add your home address to buy vehicle insurance</p>
               <p class="text-blue-500 cursor-pointer" @click="addAddress">Add now</p>
             </div>
+            
           </div>
           <div v-else>
             <router-link to="/app/dashboard/managevehicle" class="block mt-10 text-green-500 font-bold border border-solid border-gray-200 rounded px-4 py-2">Manage Policy</router-link>
