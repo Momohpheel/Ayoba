@@ -7,15 +7,7 @@
           </div>
       </div>
       <ul class="mt-10 gap-8 w-full lg:justify-center lg:mx-auto lg:gap-4">
-          <li class="min-w-[200px] max-w-[15%] pb-3">
-            <router-link to="/products/homecontent" class="w-full block p-4 bg-army rounded-lg">
-                  <p class="text-white text-sm">Home Content Insurance</p>
-                  <div class="flex justify-end mt-6">
-                      
-                  </div>
-              </router-link>
-          </li>
-          <li class="flex-shrink-0 min-w-[200px] max-w-[25%] pb-3">
+        <li class="flex-shrink-0 min-w-[200px] max-w-[25%] pb-3">
             <router-link to="/products/health" class="block w-full p-4 bg-fuschia rounded-lg">
                   <p class="text-white text-sm">Health & Accident Insurance</p>
                   <div class="flex justify-end mt-6">
@@ -30,7 +22,16 @@
                      
                   </div>
               </router-link>
+          </li>  
+        <li class="min-w-[200px] max-w-[15%] pb-3">
+            <router-link to="/products/homecontent" class="w-full block p-4 bg-army rounded-lg">
+                  <p class="text-white text-sm">Home Content Insurance</p>
+                  <div class="flex justify-end mt-6">
+                      
+                  </div>
+              </router-link>
           </li>
+         
           <li class="flex-shrink-0 min-w-[200px] max-w-[25%] pb-3">
             <div class="w-full p-4 bg-navy rounded-lg">
                   <p class="text-white text-sm">Gadgets & POS Insurance</p>
@@ -41,7 +42,7 @@
           </li>
           <li class="flex-shrink-0 min-w-[200px] max-w-[25%] pb-3">
             <div class="w-full p-4 bg-yellow-400 rounded-lg">
-                  <p class="text-white text-sm">Travel & Travel Insurance</p>
+                  <p class="text-white text-sm">Travel Insurance</p>
                   <div class="flex justify-end mt-8">
                       <!-- <button>
                            <svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -52,6 +53,18 @@
                             </svg>
                        
                       </button> -->
+                      <div class="bg-white px-4 rounded-full opacity-30">
+                        
+                      </div>
+      
+                  </div>
+              </div>
+          </li>
+          <li class="flex-shrink-0 min-w-[200px] max-w-[25%]">
+            <div class="w-full p-4 bg-gray-900 rounded-lg">
+                  <p class="text-white text-sm">Pet Insurance</p>
+                  <div class="flex justify-end mt-8">
+                      
                       <div class="bg-white px-4 rounded-full opacity-30">
                         
                       </div>
